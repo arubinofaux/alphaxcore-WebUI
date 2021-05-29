@@ -4,9 +4,9 @@
   * Copyright 2021 Authors AlphaX Projects
 */
 
-var WebURL         = "https://yourwebsite/";
-var API            = "https://yourwebsite:4000/api/";
-var stratumAddress = "stratum+tcp://yourwebsite";
+var WebURL         = "https://nonce.casa/";
+var API            = "https://api.nonce.casa/api/";
+var stratumAddress = "stratum+tcp://stratum.nonce.casa";
 
 currentPage = "index";
 
